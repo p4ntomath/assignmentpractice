@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="197dp"
         android:layout_height="25dp"
-        android:text="Good Night World"
+        android:text="Good Night World!"
         app:layout_constraintBottom_toTopOf="@+id/textView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.63"
