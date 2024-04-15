@@ -74,13 +74,4 @@
         tools:layout_editor_absoluteX="155dp"
         tools:layout_editor_absoluteY="127dp" />
 
-    <EditText
-        android:id="@+id/editTextNumberPassword"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="numberPassword"
-        tools:layout_editor_absoluteX="91dp"
-        tools:layout_editor_absoluteY="587dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
