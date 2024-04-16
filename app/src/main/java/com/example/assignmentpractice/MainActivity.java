@@ -55,4 +55,7 @@ public class MainActivity extends AppCompatActivity {
         Email.setText("");
         someText.setText("");
     }
+    public void doRemove(View v){
+        displayText.setText("");
+    }
 }
